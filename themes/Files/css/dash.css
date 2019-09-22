@@ -1,0 +1,82 @@
+.panel-info {
+	border-color: lightgray !important;
+}
+
+@media (min-width: 1200px) {
+	.dash-details {
+		margin-left: 9em !important;
+	}
+}
+
+.panel-heading {
+	background: lightgray !important;
+	color: black !important;
+	font-size: 16px !important;
+	border-color: lightgray !important;
+}
+
+#paneldefault {
+	min-height: 400px !important;
+}
+
+.panel-body {
+	color: black;
+	text-decoration: none;
+}
+
+#panel-list {
+	border-bottom: 1px solid lightgray;
+}
+
+#panel-list:active {
+	background: lightgray !important;
+}
+
+#update {
+	background-color: #337ab7 !important;
+	border-color: #2e6da4 !important;
+	background-image: none !important;
+}
+
+p {
+	font-family: verdana !important;
+}
+
+a:hover {
+	text-decoration: none !important;
+}
+
+#logout:focus {
+	text-decoration: none !important;
+}
+
+#name {
+	border: none !important;
+	border-bottom: 1px solid black !important;
+	border-radius: 0px !important;
+	box-shadow: none !important;
+	font-family: verdana !important;
+}
+
+.profile-pic {
+	height: 120px !important;
+	width: 120px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	border-radius: 99px;
+}
+
+#p-edit {
+	margin-left: 47px;
+	color: black !important;
+}
+
+#display-pic {
+	margin-left: 2em;
+	margin-top: 2em;
+}
+
+#p-edit:focus {
+	text-decoration: none;
+}

@@ -1,0 +1,38 @@
+.mob-app {
+	margin-top: 25px;
+}
+
+.mob-heading {
+	text-align: center;
+}
+
+.app-img {
+	width: 100%;
+}
+
+.columns {
+	margin-top: 20px;
+}
+
+#main-head {
+	font-weight: bold;
+}
+
+#mob-img {
+	max-height: 400px;
+}
+
+@media (min-width: 768px) {
+	.columns {
+		margin-top: 50px;
+	}
+	.app-img {
+		margin-top: 100px;
+	}
+}
+
+@media (max-width: 767px) {
+	.app-img {
+		margin-top: 15px;
+	}
+}

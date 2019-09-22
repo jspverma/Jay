@@ -1,0 +1,30 @@
+html,
+body {
+	margin: 0px, auto;
+	padding: 0px;
+	height: 100%;
+}
+
+.panel-info {
+	border-color: maroon !important;
+}
+
+.panel-info>.panel-heading {
+	color: white !important;
+	background-color: maroon !important;
+	border-color: maroon !important;
+}
+
+#here {
+	color: black !important;
+}
+
+a {
+	color: white !important;
+	text-decoration: underline !important;
+}
+
+#btn-login,
+#btn-fblogin {
+	text-decoration: none !important;
+}

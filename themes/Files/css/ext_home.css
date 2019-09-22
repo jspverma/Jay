@@ -1,0 +1,37 @@
+.blog_af{
+    	margin: 18px !important;
+    	font-weight: bold;
+        line-height: 20px;
+    }
+
+.a1
+{
+background-image: url('../../../images/test/sudhir.jpg'); background-color: rgba(77,5,51,.2);
+}
+
+.a2
+{
+background-image: url('../../../images/test/Jason.jpg'); background-color: rgba(145,169,216,.2);
+}
+
+.a3
+{
+background-image: url('../../../images/test/aina.jpg'); background-color: rgba(77,5,51,.2);
+}
+
+.a4
+{
+ background-image: url('../../../images/test/rajesh.jpg');background-color: rgba(0,0,0,.2);
+}
+.test11
+{
+text-transform: capitalize; font-weight:bold;
+}
+.blogp
+{
+margin: 20px;text-align:justify;
+}
+.titleh1
+{
+text-transform: capitalize; font-weight:bold;
+}

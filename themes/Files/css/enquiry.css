@@ -1,0 +1,50 @@
+#enquiry {
+	position: fixed;
+	right: 0;
+	margin-right: -3px;
+	margin-top: 100px;
+	z-index: 10000;
+}
+
+#enquiry-form {
+	float: right;
+	width: 240px;
+	height: auto;
+	padding-left: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-clip: padding-box;
+	border: 1px solid rgba(0, 0, 0, .2);
+	border-radius: 0px;
+	box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+}
+
+#enquiry-tab {
+	float: left;
+	color: #fff;
+	font-size: 22px !important;
+	font-family: verdana;
+	cursor: pointer;
+	text-align: center;
+	width: 110px;
+	height: 40px;
+	margin-top: 35px;
+	background: #9E0028;
+	margin-right: -35px;
+	padding-top: 5px;
+	transform: rotate(270deg);
+}
+
+#enquiry-tab:hover {
+	background: #202020;
+}
+
+#enquiry-btn {
+	background-color: #337ab7 !important;
+	border-color: #2e6da4 !important;
+	background-image: none !important;
+}
+
+#enquiry-form textarea {
+	resize: none;
+}

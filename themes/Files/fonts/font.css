@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Museo";
+  src: url("Museo700-Regular.html") format("opentype");
+}
+
+@font-face {
+  font-family: "Montserrat_Light";
+  src: url("Montserrat-Light_0.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Museo_Slab";
+  src: url("Museo_Slab.otf") format("opentype");
+}
